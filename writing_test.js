@@ -1,6 +1,6 @@
 /* 
 Tests for Multiplication Function:
-Expect multiplication(2, 3) to be a numberblock-18-writing-test-specs
+Expect multiplication(2, 3) to be a number
 Expect multiplication(-4, 8) to be a negative number
 Expect multiplication(5, 0) to equal 0
 Expect multiplication(2, "a") to equal an error
